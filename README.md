@@ -71,7 +71,7 @@ Micrometer • Prometheus • Grafana
 
 ### Tools
 
-Git • GitHub • Maven • IntelliJ IDEA • VS Code • Postman
+Git • GitHub • Maven • VS Code • Postman
 
 ---
 
