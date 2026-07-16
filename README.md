@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Aditi%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20Monitoring%20%26%20Observability&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Aditi%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20•%20Spring%20Boot%20•%20Monitoring%20and%20Observability&descAlignY=60"/>
 </p>
 
 <h1 align="center">
