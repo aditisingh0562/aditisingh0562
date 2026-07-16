@@ -70,15 +70,6 @@ Hi 👋, I'm Aditi Singh
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditisingh0562&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditisingh0562&layout=compact&theme=tokyonight&hide_border=true)
-
-</p>
 
 ---
 
