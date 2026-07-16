@@ -9,7 +9,7 @@ Hi 👋, I'm Aditi Singh
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=B.Tech+Student+at+KIIT;Java+Developer;Spring+Boot+Learner;Frontend+Developer;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=B.Tech+Student+at+KIIT;Java+Developer;Spring+Boot+Learner;Frontend+Developer;Observability+and+Monitoring+Enthusiast;Alerting"/>
 </p>
 
 ---
