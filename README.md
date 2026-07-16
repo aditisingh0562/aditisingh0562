@@ -20,14 +20,10 @@ Hi 👋, I'm Aditi Singh
 
 💻 Passionate about Java, Spring Boot and Web Development
 
-🌱 Currently learning
-
-- Spring Boot
-- Backend Development
-- Data Structures & Algorithms
 
 
-🚀 Interested in Backend Engineering & Full Stack Development
+
+🚀 Interested inFull Stack Development
 
 ---
 
