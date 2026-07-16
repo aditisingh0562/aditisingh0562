@@ -30,7 +30,6 @@ Hi 👋, I'm Aditi Singh
 - Backend Development
 - Data Structures & Algorithms
 
-🏆 CGPA: **9.37**
 
 🚀 Interested in Backend Engineering & Full Stack Development
 
@@ -40,7 +39,7 @@ Hi 👋, I'm Aditi Singh
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/aditi-singh-30652a30a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -48,7 +47,7 @@ Hi 👋, I'm Aditi Singh
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://aditisingh0562.github.io/my-website/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
@@ -60,7 +59,7 @@ Hi 👋, I'm Aditi Singh
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,react,spring,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,spring,mysql,git,github,vscode"/>
 
 </p>
 
@@ -88,25 +87,15 @@ Hi 👋, I'm Aditi Singh
 
 ---
 
-# 🚀 Featured Projects
-
-⭐ Portfolio Website
-
-⭐ System Health
-
-⭐ Uptime Monitoring
-
-⭐ Retail Billing System
 
 ---
 
 # 🏆 Achievements
 
-🏅 SheFi Scholar
+🏅 Amazon HackOn top 50 female coders
 
-🏅 9.37 CGPA
+🏅 Flipkart GriD 7.0 semifinalist
 
-🏅 Web Development Enthusiast
 
 ---
 
