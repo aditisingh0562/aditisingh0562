@@ -61,6 +61,11 @@ Hi 👋, I'm Aditi Singh
 
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,spring,mysql,git,github,vscode"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
 </p>
 
 ---
@@ -69,9 +74,9 @@ Hi 👋, I'm Aditi Singh
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditisingh0562&show_icons=true&theme=tokyonight"/>
+![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditisingh0562&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditisingh0562&layout=compact&theme=tokyonight"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditisingh0562&layout=compact&theme=tokyonight&hide_border=true)
 
 </p>
 
