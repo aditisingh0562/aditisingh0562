@@ -47,18 +47,31 @@ Hi 👋, I'm Aditi Singh
 
 ---
 
-# 💻 Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,spring,mysql,git,github,vscode"/>
+Java • Python • JavaScript • SQL • C
 
-<br><br>
+### Frontend
 
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+React • HTML • CSS
 
-</p>
+### Backend
+
+Spring Boot • Spring MVC • Spring Security • REST APIs
+
+### Database
+
+MySQL • PostgreSQL
+
+### Monitoring
+
+Micrometer • Prometheus • Grafana
+
+### Tools
+
+Git • GitHub • Maven • IntelliJ IDEA • VS Code • Postman
 
 ---
 
