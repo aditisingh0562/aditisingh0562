@@ -23,7 +23,7 @@ Hi 👋, I'm Aditi Singh
 
 
 
-🚀 Interested inFull Stack Development
+🚀 Interested in Full Stack Development
 
 ---
 
