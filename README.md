@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Aditi%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Building%20Monitoring%20Systems&descAlignY=60"/>
 </p>
 
-<h1 align="center">
-Hi 👋, I'm Aditi Singh
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=B.Tech+Student+at+KIIT;Java+Developer;Spring+Boot+Learner;Frontend+Developer;Observability+and+Monitoring+Enthusiast;Alerting"/>
