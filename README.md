@@ -58,14 +58,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditisingh0562&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditisingh0562&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aditisingh0562&theme=tokyonight&hide_border=true"/>
 </p>
+
+
 
 ---
 
