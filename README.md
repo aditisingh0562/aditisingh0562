@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Observability+%26+Monitoring+Tools;Prometheus+%7C+Grafana+%7C+Kubernetes;Turning+Ideas+Into+Scalable+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Software+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Observability+%26+Monitoring+Tools;Prometheus+%7C+Grafana+%7C+Kubernetes;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 👩‍💻 About Me
 
-```java id="id80mb"
+```java
 public class AditiSingh {
 
     String education = "B.Tech CSCE @ KIIT University";
@@ -44,15 +44,15 @@ public class AditiSingh {
 }
 ```
 
-* 🎓 Pursuing **B.Tech in Computer Science & Communication Engineering** at **KIIT University**
-* 💻 Interested in building robust applications using **Java, Spring Boot, React, and REST APIs**
-* 📊 Exploring modern observability technologies including **Prometheus, Grafana, VictoriaMetrics, and Kubernetes**
-* ⚙️ Interested in **Backend Engineering, Full Stack Development, Observability, and Scalable Systems**
-* 🚀 I enjoy solving real-world problems and turning ideas into practical software solutions
+- 🎓 Pursuing **B.Tech in Computer Science & Communication Engineering** at **KIIT University**
+- 💻 Passionate about **Java**, **Spring Boot**, and **Backend Development**
+- 📊 Exploring **Prometheus**, **Grafana**, **VictoriaMetrics**, and **Kubernetes**
+- 🌱 Currently learning scalable backend systems and cloud-native technologies
+- 🚀 Always excited to learn new technologies and solve challenging problems
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### 💻 Languages
 
@@ -66,7 +66,7 @@ public class AditiSingh {
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
 </p>
 
-`Spring Boot` · `Spring MVC` · `Spring Security` · `REST APIs` · `JWT`
+`Spring Boot` • `Spring MVC` • `Spring Security` • `REST APIs` • `JWT`
 
 ### 🎨 Frontend
 
@@ -74,7 +74,7 @@ public class AditiSingh {
   <img src="https://skillicons.dev/icons?i=react,html,css"/>
 </p>
 
-### 🗄️ Databases
+### 🗄 Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
@@ -86,7 +86,7 @@ public class AditiSingh {
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,kubernetes"/>
 </p>
 
-`VictoriaMetrics` · `Micrometer` · `Monitoring` · `Alerting`
+`VictoriaMetrics` • `Micrometer` • `Monitoring` • `Alerting`
 
 ### 🔧 Developer Tools
 
@@ -96,34 +96,18 @@ public class AditiSingh {
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-<table>
-  <tr>
-    <td>🏅</td>
-    <td><b>Amazon HackOn</b></td>
-    <td>Top 50 Female Coders</td>
-  </tr>
-  <tr>
-    <td>🏆</td>
-    <td><b>Flipkart GRiD 7.0</b></td>
-    <td>Semifinalist</td>
-  </tr>
-  <tr>
-    <td>🎓</td>
-    <td><b>KIIT Merit Scholarship</b></td>
-    <td>Two-time recipient for academic excellence</td>
-  </tr>
-  <tr>
-    <td>🚀</td>
-    <td><b>Adobe India Hackathon</b></td>
-    <td>Cleared Round 1 among 272K+ participants</td>
-  </tr>
-</table>
+| 🏅 | Achievement | Description |
+|-----|------------|-------------|
+| 🥇 | Amazon HackOn | Top 50 Female Coders |
+| 🏆 | Flipkart GRiD 7.0 | Semifinalist |
+| 🎓 | KIIT Merit Scholarship | Two-time recipient for academic excellence |
+| 🚀 | Adobe India Hackathon | Cleared Round 1 among 272K+ participants |
 
 ---
 
-## 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditisingh0562&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
@@ -136,25 +120,24 @@ public class AditiSingh {
 
 ---
 
-## 📫 Let's Connect
-
-<p align="center">
-  I'm always interested in discussing <b>software engineering, backend systems, observability, and new opportunities.</b>
-</p>
+# 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditi-singh-30652a30a/">
-    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aditisingh0562@gmail.com">
-    <img src="https://img.shields.io/badge/Reach_Out-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://aditisingh0562.github.io/my-website/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Consistency beats intensity.”</i>
+  <i>"Consistency beats intensity."</i>
 </p>
 
 <p align="center">
@@ -162,7 +145,7 @@ public class AditiSingh {
 </p>
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile! ⭐</b>
+  ⭐ Thanks for visiting my profile ⭐
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6C63FF&height=120&section=footer"/>
